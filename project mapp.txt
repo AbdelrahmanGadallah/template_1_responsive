@@ -1,0 +1,16 @@
+css files
+
+1- main.css
+2- normalize.css
+3- fonts
+4- font awesome links
+
+global rules
+
+html sections
+
+1- header
+
+- logo
+- navigation bar
+- icons spans
